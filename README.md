@@ -18,6 +18,15 @@
 
 
 ### My Stats
+<div>
 ![joaofelipeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipeas&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipeas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+### Contacts
+<div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-alves-de-souza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
