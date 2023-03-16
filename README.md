@@ -15,3 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
 
 </div>
+
+
+### My Stats
+![joaofelipeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaofelipeas&show_icons=true&theme=dracula)
